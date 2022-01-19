@@ -19,7 +19,7 @@ Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets a
 
 ### Contact
 
-Get in touch for access to Slack or to offer a talk
+Get in touch to join our Slack channel or to offer a talk
 
 Join our [Meetup Group](https://www.meetup.com/DEFCON441242/)
 
