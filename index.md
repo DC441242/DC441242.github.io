@@ -9,6 +9,12 @@ A free to attend all inclusive group of people with the occasional dog (location
 
 Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets as the pandemic allows. 
 
+- 10 Jan - Zoom - Google Sheets Forensics, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
+- 7 Feb - TBC
+- 7 Mar - TBC
+- 4 Apr - TBC
+- 2 May -  TBC
+
 
 
 ### Contact
