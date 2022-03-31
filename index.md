@@ -8,8 +8,8 @@ Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets a
 
 - 10 Jan - Zoom - Google Sheets Forensics, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
 - 7 Feb - TBC
-- 7 Mar - TBC
-- 4 Apr - TBC
+- 7 Mar - Digital Forensics CTF, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
+- 4 Apr - Digital Forensics CTF Waklthough, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
 - 2 May -  TBC
 
 
@@ -18,6 +18,6 @@ Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets a
 
 Get in touch to join our Slack channel or to offer a talk
 
-Join our [Meetup Group](https://www.meetup.com/DEFCON441242/)
+~~Join our [Meetup Group]~(https://www.meetup.com/DEFCON441242/)~~ Closed down
 
 For everything else: [@dc441242](https://twitter.com/dc441242)
