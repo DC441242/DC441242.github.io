@@ -18,6 +18,8 @@ Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets a
 
 Get in touch to join our Slack channel or to offer a talk
 
+Join our [LinkedIn group](https://www.linkedin.com/groups/12645197/)
+
 ~~Join our [Meetup Group]~(https://www.meetup.com/DEFCON441242/)~~ Closed down
 
 For everything else: [@dc441242](https://twitter.com/dc441242)
