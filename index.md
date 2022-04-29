@@ -10,7 +10,7 @@ Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets a
 - 7 Feb - TBC
 - 7 Mar - Digital Forensics CTF, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
 - 4 Apr - Digital Forensics CTF Waklthough, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
-- 2 May -  TBC
+- 9 May -  TBC
 
 
 
