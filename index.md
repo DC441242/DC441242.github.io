@@ -11,7 +11,13 @@ Usually on Zoom. We will go back to in-person or a hybrid Zoom/in-person meets a
 - 7 Mar - Digital Forensics CTF, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
 - 4 Apr - Digital Forensics CTF Waklthough, Steve Armstrong [@Nebulator](https://twitter.com/nebulator)
 - 9 May - Chaosecurity. From dev to dev via pen testing, research and reverse engineering. 
-- 9 June - 
+- 9 June - Bloom filters in BPF [@kevsheldrake](https://twitter.com/kevsheldrake)
+- 7 July - DNS tunnelling using Iodine - Joe M
+- 4 Aug
+- 1 Sep
+- 6 Oct
+- 3 Nov
+- 1 Dec - Bring your Christmas treats, Tech you what to freecycle, and maybe a lightning talk.
 
 
 
