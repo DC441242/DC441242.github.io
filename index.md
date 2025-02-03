@@ -1,5 +1,5 @@
 ## Who are DC441242 & DC441452
-We are a free to attend all inclusive group of people with the occasional dog (location dependant). We meet on the second **Monday** of the month (*except when we don't*) to talk about all things tech and infosec. Talks topics range from blue teaming, red teaming, hardware hacking, cryptography, 3D printing and any personal projects. If you would like to **give a talk** DM us on [Twitter](https://twitter.com/dc441242) or complete this [form](https://forms.gle/EaoRV8RJnvN7o9sP8).
+We are a free to attend all inclusive group of people with the occasional dog (location dependant). We meet on the second **Monday** of the month (*except when we don't*) to talk about all things tech and infosec. Talks topics range from blue teaming, red teaming, hardware hacking, cryptography, 3D printing and any personal projects. If you would like to **give a talk** DM us on [Twitter](https://twitter.com/dc441242) or our [LinkedIn group](https://www.linkedin.com/groups/12645197/)
 
 
 ## 2025 Events
